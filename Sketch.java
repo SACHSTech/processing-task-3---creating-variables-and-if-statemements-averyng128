@@ -1,5 +1,5 @@
 /**
- * A program that shows a cloud in a random position and background changes colour accordingly
+ * A program that shows the time and a cloud in a random position and background changes colour accordingly
  * @author: A. Ng
  * 
  */
