@@ -32,8 +32,8 @@ public class Sketch extends PApplet {
     int intM;
     int intS;
     String stringTime;
-
-	  // define variables, random position for circle 1 of the cloud
+    
+    // define variables, random position for circle 1 of the cloud
     floatCircleX = random(20, width - 65); 
     floatCircleY = random(20, height - 15);
     floatSize = 20;
